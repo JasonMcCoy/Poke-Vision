@@ -51,5 +51,7 @@ You may reach then via the contact us page:
 
 This is possible only because of the creators of:
 [https://pokevision.com/](https://pokevision.com/)
+[@NianticLabs](https://twitter.com/NianticLabs) and [@PokemonGoApp](https://twitter.com/PokemonGoApp)
+
 
 Without them, this project wouldn't have been possible. Thank you guys!
