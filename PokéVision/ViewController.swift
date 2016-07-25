@@ -7,12 +7,27 @@
 //
 
 import UIKit
+import WebKit
 
 class ViewController: UIViewController {
+    
+    @IBOutlet weak var container: UIView!
+    var webView: WKWebView!
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        webView = WKWebView()
+        container.addSubview(webView)
+        
+        let frame = CGRectMake(0, 0, container.bounds.width, container.bounds.height)
+        webView.frame = frame
+        
+        let urlString = "https://pokevision.com/"
+        let url = NSURL(string: urlString)!
+        let request = NSURLRequest(URL: url)
+        
+        webView.loadRequest(request)
     }
 
     override func didReceiveMemoryWarning() {
