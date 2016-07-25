@@ -19,7 +19,9 @@ class ViewController: UIViewController {
         
         webView = WKWebView()
         container.addSubview(webView)
-        
+    }
+    
+    override func viewDidAppear(animated: Bool) {
         let frame = CGRectMake(0, 0, container.bounds.width, container.bounds.height)
         webView.frame = frame
         
@@ -34,7 +36,12 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
+    
+    /* Hide Status Bar */
+    override func prefersStatusBarHidden() -> Bool {
+        return true
+    }
+    /* End Hide Status Bar */
 
 }
 
