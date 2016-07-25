@@ -44,7 +44,7 @@ We are grateful to be provided map tiles and geocoding services by the folks ove
 
 ### How do I contact you guys regarding suggestions, feedback, or business inquiries?
 
-You may reach then via the contact us page:
+You may reach them via the contact us page:
 [https://pokevision.com/contact](https://pokevision.com/contact)
 
 
