@@ -5,7 +5,9 @@
 Here is what the app looks like when being used:
 ![alt tag](http://mccoygames.com/wp-content/uploads/2016/07/Screen-Shot-2016-07-24-at-6.08.01-PM.png)
 
-##### Find all Pokemon near you (or a selected target location) in real time for Pokemon Go. Pokemon nearby will be marked along with their appearance timer on the map. These are real time Pokemon locations, meaning they are currently live and can be found exactly at the marked spots.
+
+#### Find all Pokemon near you (or a selected target location) in real time for Pokemon Go. Pokemon nearby will be marked along with their appearance timer on the map. These are real time Pokemon locations, meaning they are currently live and can be found exactly at the marked spots.
+
 
 
 ### What is Pokevision?
@@ -38,11 +40,11 @@ The Pokemon Go servers are very overloaded during peak hours of the day, this al
 
 ### What map provider are you using?
 
-We are grateful to be provided map tiles and geocoding services by the folks over at Esri .
+We are grateful to be provided map tiles and geocoding services by the folks over at [Esri](https://developers.arcgis.com/).
 
 ### How do I contact you guys regarding suggestions, feedback, or business inquiries?
 
-You may reach us via the contact us page:
+You may reach then via the contact us page:
 [https://pokevision.com/contact](https://pokevision.com/contact)
 
 
