@@ -1,5 +1,10 @@
+<<<<<<< Updated upstream
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10117" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" initialViewController="01J-lp-oVM">
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10117" systemVersion="16A254g" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" initialViewController="01J-lp-oVM">
+>>>>>>> Stashed changes
     <dependencies>
         <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
@@ -17,18 +22,31 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
+<<<<<<< Updated upstream
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Screen Shot 2016-07-28 at 9.17.11 PM" translatesAutoresizingMaskIntoConstraints="NO" id="kOH-8M-nwm">
                                 <rect key="frame" x="180" y="266" width="240" height="67"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="67" id="cUT-fA-373"/>
                                     <constraint firstAttribute="width" constant="240" id="eHM-zq-BA4"/>
+=======
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="pokevision logo" translatesAutoresizingMaskIntoConstraints="NO" id="s4y-Lh-AFX">
+                                <rect key="frame" x="180" y="266" width="240" height="68"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="240" id="cKA-Sw-bkb"/>
+                                    <constraint firstAttribute="height" constant="68" id="xDq-X4-mRX"/>
+>>>>>>> Stashed changes
                                 </constraints>
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
+<<<<<<< Updated upstream
                             <constraint firstItem="kOH-8M-nwm" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="EgH-wL-q7W"/>
                             <constraint firstItem="kOH-8M-nwm" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="x1z-gC-Cq0"/>
+=======
+                            <constraint firstItem="s4y-Lh-AFX" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="aqr-s2-Yej"/>
+                            <constraint firstItem="s4y-Lh-AFX" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="zC4-7M-2h6"/>
+>>>>>>> Stashed changes
                         </constraints>
                     </view>
                 </viewController>
@@ -38,6 +56,10 @@
         </scene>
     </scenes>
     <resources>
+<<<<<<< Updated upstream
         <image name="Screen Shot 2016-07-28 at 9.17.11 PM" width="181" height="42"/>
+=======
+        <image name="pokevision logo" width="178" height="42"/>
+>>>>>>> Stashed changes
     </resources>
 </document>
